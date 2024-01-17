@@ -1,0 +1,9 @@
+    height: 100%;
+    width: 100%;
+    background-color: rgb(38, 37, 44);
+
+.title {
+    height: 100px;
+    width: 100px;
+    background-image: linear-gradient(180 deg, blue, red, green);
+}
